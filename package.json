@@ -1,0 +1,13 @@
+{
+  "name": "audion-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas Sifflet",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "node-geocoder": "^3.22.0",
+    "papaparse": "^4.6.3"
+  }
+}
